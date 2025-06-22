@@ -15,9 +15,9 @@ const genComputerChoice = () => {
     return options[randIdx]; // Return the random choice
 }
 
-const drawGame = (userChoice, compChoice) => {
+const drawGame = () => {
     // console.log("Draw Match");
-    msg.textContent = `It's a draw! Your choice ${userChoice} and Computer Choice ${compChoice} tie 💔 `;
+    msg.textContent = `It's a draw! 💔 `;
     msg.style.backgroundColor = "#9e9e0d"; // Change the background color to yellow for a draw
     msg.style.color = "black"; // Change the text color to black for better visibility
 }
