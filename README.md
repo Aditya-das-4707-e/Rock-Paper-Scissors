@@ -11,7 +11,6 @@
   <a href="https://github.com/Aditya-das-4707-e/Rock-Paper-Scissors" target="_blank">
     <img src="https://img.shields.io/github/stars/Aditya-das-4707-e/Rock-Paper-Scissors?style=for-the-badge" alt="GitHub Repo" />
   </a>
-  <img src="https://img.shields.io/badge/License-MIT-6E44FF?style=for-the-badge" alt="License" />
 </p>
 
 ---
@@ -31,7 +30,7 @@ This is a simple and responsive implementation of the classic **Rock-Paper-Sciss
 
 ## 📸 Preview
 
-<img src="https://user-images.githubusercontent.com/your-screenshot.png" alt="Game Screenshot" width="600"/>
+<img src="https://github.com/Aditya-das-4707-e/Rock-Paper-Scissors/blob/main/Screenshot%20From%202025-07-09%2007-31-20.png" alt="Game Screenshot" width="600"/>
 
 ---
 
